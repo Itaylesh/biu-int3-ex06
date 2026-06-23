@@ -6,18 +6,6 @@
 
 ---
 
-## Group Members
-
-| Name | Role |
-|------|------|
-| *[Member 1 — fill in]* | Vibe Coding lead |
-| *[Member 2 — fill in if applicable]* | — |
-| *[Member 3 — fill in if applicable]* | — |
-
-> **Note:** Replace placeholder names before Moodle PDF submission.
-
----
-
 ## Project Description
 
 **Kavana** (כוונה — "intention/focus") is a fictional AI deep-work companion presented through a ~60-second programmatic marketing video. The project demonstrates the full Vibe Coding production pipeline: from business brief and structured JSON through AI-assisted code generation to a rendered MP4.
