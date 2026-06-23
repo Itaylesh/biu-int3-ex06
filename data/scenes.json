@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "brand": "Kavana",
+    "tagline": "Start your focused day.",
+    "taglineHe": "כוונה אחת. יום שלם.",
+    "fps": 30,
+    "width": 1920,
+    "height": 1080,
+    "totalDurationInFrames": 1800
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "title": "Your focus is under attack.",
+      "subtitle": "Kavana — AI Deep-Work Companion",
+      "onScreenText": ["Your focus is under attack."],
+      "voiceover": "Every ping steals a piece of your day.",
+      "visualDescription": "Clean navy gradient background with slow-drifting particles. Bold title scales in from center. Subtitle fades up after 30 frames.",
+      "assetRef": null,
+      "componentType": "HookScene",
+      "durationInFrames": 240,
+      "animationType": "scaleIn",
+      "transitionType": "fade",
+      "palette": {
+        "bg": "#0B1220",
+        "fg": "#F8FAFC",
+        "accent": "#6366F1"
+      },
+      "audioCue": "minimal piano, spacious opening",
+      "soundEffects": [],
+      "callToAction": null
+    },
+    {
+      "id": "problem",
+      "title": "47 interruptions. Before lunch.",
+      "subtitle": "Fragmented attention costs hours",
+      "onScreenText": ["47 interruptions. Before lunch."],
+      "voiceover": "Forty-seven interruptions before lunch. Your calendar looks like shattered glass.",
+      "visualDescription": "Notification cards cascade from screen edges — Slack, Gmail, Calendar, Teams — each with red urgency dot. Focus meter drains 100% to 12%, turning crimson. Calendar blocks shatter into fragments on the right.",
+      "assetRef": null,
+      "componentType": "ProblemScene",
+      "durationInFrames": 300,
+      "animationType": "cascade",
+      "transitionType": "slide",
+      "palette": {
+        "bg": "#0F172A",
+        "fg": "#F8FAFC",
+        "accent": "#EF4444"
+      },
+      "audioCue": "tension building, subtle synth pad enters",
+      "soundEffects": ["notification_ping"],
+      "callToAction": null
+    },
+    {
+      "id": "solution",
+      "title": "Kavana",
+      "subtitle": "AI Deep-Work Companion",
+      "onScreenText": ["Kavana", "AI Deep-Work Companion"],
+      "voiceover": "Meet Kavana. Your AI deep-work companion.",
+      "visualDescription": "Noise freezes mid-air. Luminous shield icon expands from center with concentric violet-cyan rings. Notification particles dissolve downward. Focus meter reverses climbing 12% to 94%.",
+      "assetRef": null,
+      "componentType": "SolutionScene",
+      "durationInFrames": 270,
+      "animationType": "scaleIn",
+      "transitionType": "fade",
+      "palette": {
+        "bg": "#0B1220",
+        "fg": "#F8FAFC",
+        "accent": "#6366F1"
+      },
+      "audioCue": "shield activation — warm synth resolve",
+      "soundEffects": ["shield_activate"],
+      "callToAction": null
+    },
+    {
+      "id": "features",
+      "title": "Shield. Orchestrate. Clarify.",
+      "subtitle": "Three pillars of deep work",
+      "onScreenText": ["Focus Shield", "Smart Orchestration", "Clarity Dashboard"],
+      "voiceover": "Shield your focus. Orchestrate your day. One priority at a time.",
+      "visualDescription": "Three feature panels slide in sequentially: (1) bell icon with slash — Focus Shield, (2) calendar blocks snap into rows — Smart Orchestration, (3) single glowing priority card — Clarity Dashboard.",
+      "assetRef": null,
+      "componentType": "FeaturesScene",
+      "durationInFrames": 360,
+      "animationType": "slideUp",
+      "transitionType": "slide",
+      "palette": {
+        "bg": "#0B1220",
+        "fg": "#F8FAFC",
+        "accent": "#22D3EE"
+      },
+      "audioCue": "forward momentum, light percussion",
+      "soundEffects": [],
+      "callToAction": null
+    },
+    {
+      "id": "proof",
+      "title": "+176% deep work time",
+      "subtitle": "Less noise. More done.",
+      "onScreenText": ["+176% deep work time", "2.1 hrs → 5.8 hrs"],
+      "voiceover": "Users report nearly triple the deep-work hours. Less noise. More done.",
+      "visualDescription": "Split-screen: left shows 2.1 hrs deep work in red with declining arrow; right shows 5.8 hrs in green with rising arrow. Animated counter ticks up to +176%.",
+      "assetRef": null,
+      "componentType": "ProofScene",
+      "durationInFrames": 300,
+      "animationType": "fadeIn",
+      "transitionType": "fade",
+      "palette": {
+        "bg": "#0F172A",
+        "fg": "#F8FAFC",
+        "accent": "#10B981"
+      },
+      "audioCue": "confident rise, stat reveal",
+      "soundEffects": ["counter_tick"],
+      "callToAction": null
+    },
+    {
+      "id": "cta",
+      "title": "Start your focused day.",
+      "subtitle": "kavana.ai",
+      "onScreenText": ["Start your focused day.", "kavana.ai", "כוונה אחת. יום שלם."],
+      "voiceover": "Start your focused day. Kavana — one intention, a whole day.",
+      "visualDescription": "Kavana logo centers — stylized shield with K lettermark. English tagline fades in, then Hebrew tagline below in RTL. Soft particle background. Logo pulse animation.",
+      "assetRef": null,
+      "componentType": "CTAScene",
+      "durationInFrames": 330,
+      "animationType": "fadeIn",
+      "transitionType": "fade",
+      "palette": {
+        "bg": "#0B1220",
+        "fg": "#F8FAFC",
+        "accent": "#6366F1"
+      },
+      "audioCue": "warm piano resolve, gentle fade out",
+      "soundEffects": [],
+      "callToAction": "Start your focused day — kavana.ai"
+    }
+  ]
+}

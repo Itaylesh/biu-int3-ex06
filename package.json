@@ -1,0 +1,27 @@
+{
+  "name": "biu-int3-ex06",
+  "version": "1.0.0",
+  "description": "Kavana — Vibe Coding Ex06 Remotion explainer video (group biu-int3)",
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render src/index.ts KavanaVideo output/final-video.mp4",
+    "render:still": "remotion still src/index.ts KavanaVideo screenshots/remotion-studio.png --frame=900",
+    "build": "remotion bundle",
+    "validate": "tsx src/validate-only.ts"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.286",
+    "@remotion/google-fonts": "^4.0.286",
+    "@remotion/media-utils": "^4.0.286",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.286",
+    "zod": "4.3.6"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}

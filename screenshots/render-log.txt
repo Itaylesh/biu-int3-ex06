@@ -1,0 +1,13 @@
+Remotion render completed successfully — biu-int3-ex06
+
+Command: npm run render
+Equivalent: npx remotion render src/index.ts KavanaVideo output/final-video.mp4
+
+Results:
+- Rendered 1800/1800 frames (60s @ 30fps)
+- Encoded 1800/1800
+- Output: output/final-video.mp4 (4.1 MB)
+- Resolution: 1920x1080 H.264
+- Date: 2026-06-24
+
+See screenshots/render-proof.png (composition still at frame 120, captured post-render).
