@@ -2,7 +2,7 @@
 
 **Assignment:** AI Course — Exercise 06 (Vibe Coding / Remotion)  
 **Group code:** `biu-int3`  
-**Repository:** [biu-int3-ex06](https://github.com/itayleshem/biu-int3-ex06)
+**Repository:** [biu-int3-ex06](https://github.com/Itaylesh/biu-int3-ex06)
 
 ---
 
@@ -153,7 +153,7 @@ The Fountain script was converted to JSON (not the reverse), preserving the assi
 
 ```bash
 # Requires Node.js 18+ (LTS recommended)
-git clone https://github.com/itayleshem/biu-int3-ex06.git
+git clone https://github.com/Itaylesh/biu-int3-ex06.git
 cd biu-int3-ex06
 npm install
 ```

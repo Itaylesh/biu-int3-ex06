@@ -15,7 +15,7 @@ The assignment requires filling the lecturer's Word template **without changing 
 | Group code | `biu-int3` |
 | Assignment | Ex06 |
 | Project title | Kavana — AI Deep-Work Companion |
-| GitHub URL | `https://github.com/itayleshem/biu-int3-ex06` |
+| GitHub URL | `https://github.com/Itaylesh/biu-int3-ex06` |
 | Group members | *[Fill in names]* |
 
 ## Export Steps
