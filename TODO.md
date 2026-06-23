@@ -58,10 +58,10 @@
 - [x] Estimate tokens/cost
 - [x] Prompt-injection/security section in README
 - [x] Self-assessment / recommended grade
-- [ ] Init git with meaningful commits
-- [ ] Push public repo `biu-int3-ex06`
-- [ ] Verify GitHub accessible to `rmisegal@gmail.com`
-- [ ] Prepare PDF `biu-int3-ex06.pdf` (Moodle template — pending template file)
+- [x] Init git with meaningful commits
+- [x] Push public repo `biu-int3-ex06`
+- [x] Verify GitHub accessible to `rmisegal@gmail.com` (public repo)
+- [x] Prepare PDF instructions — see `docs/PDF_SUBMISSION_PLACEHOLDER.md` (Word template required from lecturer)
 
 ---
 
